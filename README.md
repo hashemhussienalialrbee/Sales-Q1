@@ -33,9 +33,7 @@ This project is a self-initiated Power BI dashboard that analyzes sales data for
 2. Open the file in Power BI Desktop.
 3. Explore the visuals and interact with the slicers for deeper insights.
 
-## Preview
-![Q1 2019 Sales Dashboard](R-SalesQ1/SalesQ1.png)  
-A snapshot of the interactive sales dashboard.
+
 
 ## Insights
 - *Top Region*: The highest sales were recorded in the North region.
