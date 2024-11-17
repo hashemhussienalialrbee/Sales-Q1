@@ -34,7 +34,7 @@ This project is a self-initiated Power BI dashboard that analyzes sales data for
 3. Explore the visuals and interact with the slicers for deeper insights.
 
 ## Preview
-![Q1 2019 Sales Dashboard](Sales%200Q1.png)  
+![Q1 2019 Sales Dashboard](R-SalesQ1/SalesQ1.png)  
 A snapshot of the interactive sales dashboard.
 
 ## Insights
